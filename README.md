@@ -9,7 +9,7 @@
 - space-around: 所有间隔都相同
 
 
-**2.lex-direction**
+**2.flex-direction**
 >定义主轴方向(即排列的方向)
 - row (default): 主轴为水平方向，起点在左边
 - row-deserve：主轴为水平方向，起点在右边
