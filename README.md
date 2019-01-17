@@ -25,7 +25,7 @@
 - wrap-reserve： 换行
 
 
-**4.flex-flow: flex-direction || flex-wrap **
+**4.flex-flow: flex-direction || flex-wrap**
 >以上两者的简写形式
 
 
