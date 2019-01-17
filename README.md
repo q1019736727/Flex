@@ -1,7 +1,7 @@
 # Flex learn
 
->1.justify-content
-**定义主轴对齐方式**
+**1.justify-content**
+>定义主轴对齐方式
 - 可选：flex-start(default): 左对齐
 - flex-end: 右对齐
 - center: 居中对齐
