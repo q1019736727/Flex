@@ -1,14 +1,12 @@
-# Flex
-
-## flex learn
+# Flex learn
 
 >1.justify-content
 定义主轴对齐方式
-可选：flex-start(default): 左对齐
-flex-end: 右对齐
-center: 居中对齐
-space-between: 两端对齐
-space-around: 所有间隔都相同
+- 可选：flex-start(default): 左对齐
+- flex-end: 右对齐
+- center: 居中对齐
+- space-between: 两端对齐
+- space-around: 所有间隔都相同
 
 >2.lex-direction
 定义主轴方向(即排列的方向)
